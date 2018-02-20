@@ -28,8 +28,12 @@ In /D2AGE/symmetric,
 If you use the code, please cite our paper:
 
 @inproceedings{liu2018distance,
+
   title={Distance-aware DAG Embedding for Proximity Search on Heterogeneous Graphs},
+  
   author={Liu, Zemin and Zheng, Vincent W and Zhao, Zhou and Zhu, Fanwei and Chang, Kevin Chen-Chuan and Wu, Minghui and Ying, Jing},
+  
   year={2018},
+  
   organization={AAAI}
 }
