@@ -1,8 +1,8 @@
 # D2AGE
 
 Files list:
-	1. D2AGE : the main dir for the source code
-	2. readme : this file
+1). D2AGE : the main dir for the source code
+2). readme : this file
 
 The codes are written in python-2.7, and we use theano for model development. You should generate the subpaths by yourselves, that is:
 	1) random walk in the given graph
