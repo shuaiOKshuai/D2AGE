@@ -1,5 +1,10 @@
 # D2AGE
 
+This is the cource codes for our paper : \
+	Distance-aware DAG Embedding for Proximity Search on Heterogeneous Graphs. 
+
+============================================================
+
 Files list:\
 	1). D2AGE : the main dir for the source code \
 	2). readme : this file
