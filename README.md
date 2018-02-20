@@ -1,7 +1,7 @@
 # D2AGE
 
 This is the cource codes for our paper : \
-	Distance-aware DAG Embedding for Proximity Search on Heterogeneous Graphs. 
+	Distance-aware DAG Embedding for Proximity Search on Heterogeneous Graphs. AAAI, 2018.
 
 ============================================================
 
