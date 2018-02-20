@@ -24,6 +24,8 @@ In /D2AGE/symmetric, \
 	
 For methods in other files, they would be called in the above three files.
 
+============================================================
+
 If you use the code, please cite our paper:
 
 @inproceedings{liu2018distance, \
